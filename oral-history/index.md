@@ -1,33 +1,16 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
 
-## Use headings only if you want to have subsections in your essay
+The linked audio clip is an expert of an original video memoir on Youtube. The narrator is a 30 or so years old Chinese American who migrated to America and married to a local man. Her story originally is a narration of her grandparents and her father’s story from the period of the Great Leap Forward to the Cultural Revolution. Even though the narrator only mentions her grandfather was at age of 30 when he moved back to China from Malaysia, it is not difficult to calculate the approximate time of her recall which was from the year of 1969 to 1976. Indeed, oral history is an angle of view for particular groups of people, and it is recognized as miniature of official history. Oral history embodies personal experience and sentiment and, it is common sense that people might confuse memories with time, especially the history that has been told by generations. Hence, it is essential to listen carefully to the history that has been narrated, to be as objective as possible. The following paragraphs will be mainly focusing on the involved history event of the 13 May Incident in Malaysia and the Cultural Revolution in China.
 
-<div class="sidepanel">
-              <!-- This is the div where all the popcorn action will hapen -->
-              <div id="popcorn-container">
-              </div>
-            </div>
+At the very beginning of the audio clip, the narrator says that when her grandfather was 30 years old, “Malaysia had a huge protest against the Chinese.” In modern history, there was once a severe incident happened in Malaysia on May 13, 1969, referring to the Sino-Malay sectarian violence. It was said to be a black day in May for Malaysia because there were almost six hundred casualties with most of the victims Chinese, according to Western diplomatic sources (Race War in Malaysia, 1969). Hence, it is not difficult to think of that the narrator’s great-grandfather was killed during that incident, and her grandfather had to leave Malaysia and go back to China. Even though the narrator does not explicitly state what event caused her grandfather to leave, the only big event that allows people to recall such consequence is the 13 May Incident. From this point, it is clear for the later analysis of the narration because the audience at least have a sense of the historical background.
 
+After the narrator’s grandfather went back to China, he chose to stay in Hainan Guangdong, which was only an administrative region until 1988, and which is nowadays the smallest and southernmost province of China. The grandfather’s ability of planting rubber trees recalls the history that the rubber tress’ origin in southern China was introduced from Malaya. Because of the special identity of overseas Chinese in a special historical period of the Cultural Revolution, the narrator’s grandfather’s family was suspected of being spy. There are many historical records of victims who were capitalists, artists, writers, or even some people who were relatively richer than normal people. On the pictorial section there are several pictures that indicate people who got tied up and punished, and dressed in big and white hats with cardboards hang in front of their chest. This situation was not particular in certain areas; instead, it happened nationwide. Victims got humiliated and tortured, and large amount of people died because of the Cultural Revolution. Therefore, the aforementioned social phenomenon all stand for particular historical period, and make it easier to assure the narrator’s story’s background.
 
+As it mentioned at the beginning, oral history is usually personal experience with certain level of personal sentiment, and the narrator might get confused and mix up memories. In this audio clip, there are few things that disobey historical fact. For instance, at 2’’25, the narrator says her grandmother’s father was a Xiucai, who was a standard and well-educated man. However, what is true is that the Xiucai was actually a title came from the traditional Chinese Imperial Examinations, which was abolished in 1905 (Wu, 413). Therefore, it is impossible for the narrator’s great grandfather to be a Xiucai because the age does not match. As it has been stated previously, people with certain level of education might got suspected and punished as betrayal of the CCP. Hence, it is noteworthy to question if the narrator has mixed her memory and impression of what she knows from her family’s narration, in order to create a affective cognition of understanding the situation by then.
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
-
-    Footnote 1 link[^first].
-
-    Footnote 2 link[^second].
-
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
+In fact, the credibility of oral history is still debatable because it only represents certain groups of people’s memory toward certain events. Even though it is not appropriate to state whether the oral history’s reliability, it is always important to think more thoughtful of the historical context that behind the narration.
 
 
-[^first]: Footnote **can have markup**
+Reference
 
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+“Race War in Malasia.” _Time_. 23 May, 1969. Archived from the original in 18 May 2007. Retrieved from internet in 29 April 2018.
+Wu, K.C. (1982). _The Chinese Heritage._ New York: Crown Publishers.
